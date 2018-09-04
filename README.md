@@ -1,8 +1,8 @@
-# C.S.G - Cyber Security Group | repository © 2018
+# C.S.G - Cyber Security Group | repository © 2018     Projects FullPack
 
 www.cybsecgroup.com << WebPortal!
 
-www.forum.cybsecgroup.com << Forum!                       Projects Full Pack
+www.forum.cybsecgroup.com << Forum!                      
 
 www.instagram.com/cybsecgroup << Instagram!
 
