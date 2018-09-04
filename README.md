@@ -2,7 +2,7 @@
 
 www.cybsecgroup.com << WebPortal!
 
-www.forum.cybsecgroup.com << Forum!
+www.forum.cybsecgroup.com << Forum!                       Projects Full Pack
 
 www.instagram.com/cybsecgroup << Instagram!
 
